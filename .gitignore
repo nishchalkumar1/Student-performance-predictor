@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+venv/
+.env
+
+# Models
+# (We might want to keep the models for the portfolio, but usually they are ignored. I'll leave them included so they get pushed)
